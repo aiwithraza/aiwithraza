@@ -65,7 +65,9 @@ I am a dedicated Data Engineering student learning to build efficient database a
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** [Muhammad Raza]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/aiwithraza/))
+-## 📬 Connect With Me
+
+- **LinkedIn:** [Muhammad Raza](https://www.linkedin.com/in/aiwithraza/)
 - **GitHub:** [@aiwithraza](https://github.com/aiwithraza)
 
 ---
