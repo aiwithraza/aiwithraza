@@ -1,99 +1,148 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Muhammad+Raza;Multi-Cloud+Data+Engineering+Student;Building+Scalable+Data+Systems" alt="Typing SVG" />
-</div>
-
-<br>
+# 👋 HI, I'M MUHAMMAD RAZA
 
 <div align="center">
-  <img src="https://img.shields.io/badge/STUDENT-MULTI--CLOUD%20DATA%20ENGINEERING-1F6FEB?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/LOCATION-KARACHI%2C%20PAKISTAN-1F6FEB?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/FOCUS-SQL%20%7C%20PYTHON%20%7C%20CLOUD-1F6FEB?style=for-the-badge&labelColor=0D1117" />
-</div>
 
-<br><br>
+<!-- HERO SECTION -->
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=MULTI-CLOUD+DATA+ENGINEERING;PYTHON+%7C+SQL+%7C+CLOUD;LEARN.+BUILD.+INNOVATE." />
 
-### 🚀 About Me
+### 🎓 Student | Multi-Cloud Data Engineering
 
-I'm a passionate **Data Engineering** student focused on building efficient database architectures, data pipelines, and modern data systems. Currently enrolled in a **Multi-Cloud Data Engineering** program, mastering:
+*Building my future in Data Engineering, one project at a time.*
 
-- Advanced SQL (joins, constraints, views, subqueries)
-- Python for data processing & automation  
-- Cloud platforms (AWS • Azure • GCP)
+<br/>
 
-> **Goal:** Become a skilled Multi-Cloud Data Engineer who designs reliable, scalable data systems.
+<img src="./assets/profile-photo.jpg" width="190" alt="Muhammad Raza" />
 
----
+<br/>
 
-### 🛠️ Tech Stack
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aiwithraza)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </div>
 
 ---
 
-### 📚 Learning Progress
+## 🚀 ABOUT ME
 
-| Status | Area | Details |
-|:------:|------|---------|
-| ✅ | **Relational Databases** | Table design, constraints (UNIQUE, NOT NULL, DEFAULT), data integrity |
-| ✅ | **SQL Querying** | Multi-table joins, views, subqueries, NULL handling |
-| ✅ | **Python Fundamentals** | Data structures, control flow, functions, data cleaning |
-| 🔄 | **Data Pipelines** | ETL scripts with Python + SQL |
-| 🔄 | **Cloud Storage** | AWS S3 / Azure Data Lake integration |
+I'm Muhammad Raza, a passionate student currently learning **Multi-Cloud Data Engineering**.
 
----
+My goal is to develop strong skills in programming, database architecture, data processing and cloud technologies.
 
-### 📁 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[IndusWeave-HR-Pipeline](https://github.com/aiwithraza/IndusWeave-HR-Pipeline)** | HR Data Pipeline for Indus Weave Textiles (PeopleOps Data Hackathon) | T-SQL |
-| **[sql-data-engineering-core](https://github.com/aiwithraza/sql-data-engineering-core)** | Practical SQL scripts for constraints, schema design & advanced joins | SQL |
-| **python-data-practices** *(Coming Soon)* | Core Python programs for data structures & data cleaning | Python |
+| Category | Details |
+|:---|:---|
+| 🎓 Education | Multi-Cloud Data Engineering |
+| 🐍 Programming | Python |
+| 🗄️ Database | Microsoft SQL Server |
+| 💻 IDE | Visual Studio Code |
+| 🔧 Version Control | Git & GitHub |
+| ☁️ Cloud | AWS, Azure, Google Cloud |
+| 📍 Location | Karachi, Pakistan |
+| 🎯 Current Focus | SQL, Database Design & Data Engineering |
 
 ---
 
-### 📊 GitHub Stats
+## 💡 WHAT I'M FOCUSING ON
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=aiwithraza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiwithraza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</div>
 
-<br>
+| AREA | FOCUS |
+|:---|:---|
+| 🐍 Python | Programming & Data Structures |
+| 🗄️ SQL | Queries, Joins & Constraints |
+| 🏗️ Data Engineering | Data Pipelines & ETL |
+| ☁️ Cloud Computing | AWS, Azure & GCP |
+| 🔧 Development | Git, GitHub & VS Code |
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiwithraza&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </div>
 
 ---
 
-### 🌐 Connect With Me
+## 🛠️ TECH STACK
+
+### Programming & Development
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aiwithraza/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/aiwithraza">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
-  </a>
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
+
 </div>
 
-<br>
+### Database Technologies
 
 <div align="center">
-  <i>"Learning step-by-step to build scalable cloud data systems."</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=aiwithraza&style=flat-square&color=1F6FEB" alt="Profile views" />
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+**Microsoft SQL Server | Relational Database Architecture**
+
 </div>
+
+### Cloud Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
+
+</div>
+
+---
+
+## ☁️ MY CLOUD & DATA ENGINEERING JOURNEY
+
+<div align="center">
+
+| TECHNOLOGY | LEARNING AREA |
+|:---|:---|
+| 🐍 Python | Programming fundamentals |
+| 🗄️ SQL Server | Database management |
+| ☁️ AWS | Cloud infrastructure fundamentals |
+| 🔷 Azure | Cloud data services |
+| 🌐 GCP | Google Cloud fundamentals |
+| 🏗️ Data Engineering | ETL and data pipelines |
+
+</div>
+
+---
+
+## 📚 CURRENT LEARNING PROGRESS
+
+- [x] Python Fundamentals
+- [x] Relational Database Basics
+- [x] SQL Table Creation
+- [x] Database Constraints
+- [x] SQL Filtering & Joins
+- [ ] Advanced SQL & Subqueries
+- [ ] Python Data Automation
+- [ ] ETL Pipeline Development
+- [ ] AWS Cloud Projects
+- [ ] Azure & GCP Projects
+
+---
+
+## 🚀 THINGS I'VE BUILT
+
+<div align="center">
+
+### FEATURED PROJECT
+
+<a href="https://github.com/aiwithraza/IndusWeave-HR-Pipeline">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiwithraza&repo=IndusWeave-HR-Pipeline&theme=tokyonight&hide_border=true" />
+
+</a>
+
+</div>
+
+| PROJECT | DESCRIPTION |
+|:---|:---|
+| [IndusWeave HR Pipeline](https://github.com/aiwithraza/IndusWeave-HR-Pipeline) | HR Data Pipeline Project |
+| SQL Data Engineering Core | SQL practice and database development |
+| Python Data Practices | Python learning and practice |
+
+---
+
+<!-- MORE SECTIONS COMING IN PART 2 -->
+
