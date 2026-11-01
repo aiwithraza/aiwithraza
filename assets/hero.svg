@@ -12,7 +12,7 @@
   <circle cx="200" cy="150" r="250" fill="#247bff" opacity="0.15" />
   <circle cx="1000" cy="500" r="250" fill="#ff354f" opacity="0.1" />
   
-  <text x="80" y="160" class="tag">< /> MULTI-CLOUD DATA ENGINEERING</text>
+  <text x="80" y="160" class="tag">MULTI-CLOUD DATA ENGINEERING</text>
   <text x="80" y="240" class="title">MUHAMMAD RAZA</text>
   <text x="80" y="290" class="subtitle">Student | Multi-Cloud Architecture & Data Pipelines</text>
   <text x="80" y="350" class="desc">Building robust relational database schemas, automated ETL workflows,</text>
