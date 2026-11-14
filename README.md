@@ -8,8 +8,6 @@
 
 I'm a Cloud Data Engineering student who learns by building and documenting. I focus on designing automated ETL pipelines, cloud data warehouses, and scalable data architectures across **Python, SQL, Airflow, Snowflake, AWS, and Azure**.
 
-I also authored **[Data Foundry](https://data-engineering-book.vercel.app/)**, an open-source data engineering guide covering everything from core SQL/Python and Docker/CI-CD to real-time Kafka streaming, agentic workflows, and enterprise cloud platforms.
-
 <div align="center">
 
 ![ID](./assets/id-dashboard.svg?v=1)
@@ -25,16 +23,10 @@ I also authored **[Data Foundry](https://data-engineering-book.vercel.app/)**, a
 | **[IndusWeave-HR-Pipeline](https://github.com/aiwithraza/IndusWeave-HR-Pipeline)** | End-to-end HR data pipeline resolving biometric sync anomalies & modeling a Star Schema warehouse (PeopleOps Hackathon) | `T-SQL` `ETL` |
 | **[Python_Assignment](https://github.com/aiwithraza/Python_Assignment)** | Algorithmic problem-solving, recursive parsing, and OOP data engineering scripts | `Python` `Jupyter` |
 
-## 📖 Open Book: Data Foundry
-
-A 10-part hands-on roadmap taking you from data fundamentals to multi-cloud orchestration, streaming, and AI-assisted data engineering.
-
-👉 **[Read Data Foundry Live](https://data-engineering-book.vercel.app/)**
-
 <div align="center">
 
 ![Connect](./assets/connect.svg?v=1)
 
-**[LinkedIn](https://www.linkedin.com/in/aiwithraza)** · **[GitHub](https://github.com/aiwithraza)** · **[Data Foundry Book](https://data-engineering-book.vercel.app/)**
+**[LinkedIn](https://www.linkedin.com/in/aiwithraza)** · **[GitHub](https://github.com/aiwithraza)**
 
 </div>
