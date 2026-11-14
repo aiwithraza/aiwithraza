@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 590" width="1000" height="590" role="img" aria-label="Tech stack: SQL, Python, Bash, Git, Airflow, Docker, dbt, GitHub Actions, Snowflake, Kafka, AWS, Azure, Databricks">
+<title>Tech stack</title>
+<defs><linearGradient id="s_bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+<pattern id="s_dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#17213a"/></pattern>
+<radialGradient id="s_glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#247bff" stop-opacity=".30"/><stop offset="1" stop-color="#247bff" stop-opacity="0"/></radialGradient>
+<style>
+.s_in{animation:s_in .9s cubic-bezier(.2,.8,.2,1) both}
+.s_fl{animation:s_fl 6s ease-in-out infinite alternate}
+@keyframes s_in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes s_fl{from{transform:translateY(0)}to{transform:translateY(-7px)}}
+@media (prefers-reduced-motion:reduce){.s_in,.s_fl{animation:none}}
+</style></defs>
+<rect width="1000" height="590" rx="24" fill="#070b16"/>
+<rect width="1000" height="590" rx="24" fill="url(#s_dots)"/>
+<rect x="1" y="1" width="998" height="588" rx="23" fill="none" stroke="url(#s_bd)" stroke-width="1.5" opacity=".8"/>
+<text x="48" y="64" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#247bff">// stack</text>
+<text x="48" y="104" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="38" font-weight="800" fill="#eef2ff">The tools I work with<tspan fill="#ff354f">.</tspan></text>
+<circle cx="500" cy="292" r="150" fill="url(#s_glow)"/>
+<ellipse cx="500" cy="292" rx="170" ry="85.0" transform="rotate(-16 500 292)" fill="none" stroke="url(#s_bd)" stroke-opacity=".6" stroke-width="1.5" stroke-dasharray="3 7"/>
+<g transform="translate(500 292) rotate(-16) scale(1 0.5)">
+<g transform="rotate(0.0)"><animateTransform attributeName="transform" type="rotate" from="0.0" to="360.0" dur="22s" repeatCount="indefinite"/>
+<g transform="translate(170 0)"><g transform="rotate(-0.0)"><animateTransform attributeName="transform" type="rotate" from="-0.0" to="-360.0" dur="22s" repeatCount="indefinite"/>
+<g transform="scale(1 2.0000)"><g transform="rotate(16)"><rect x="-27.3" y="-16" width="54.6" height="32" rx="16" fill="#0d1424" stroke="#247bff" stroke-width="1.6"/><circle cx="-12.3" cy="0" r="4" fill="#247bff"/><text x="8.0" y="5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#eef2ff">SQL</text></g></g></g></g></g>
+<g transform="rotate(90.0)"><animateTransform attributeName="transform" type="rotate" from="90.0" to="450.0" dur="22s" repeatCount="indefinite"/>
+<g transform="translate(170 0)"><g transform="rotate(-90.0)"><animateTransform attributeName="transform" type="rotate" from="-90.0" to="-450.0" dur="22s" repeatCount="indefinite"/>
+<g transform="scale(1 2.0000)"><g transform="rotate(16)"><rect x="-39.6" y="-16" width="79.2" height="32" rx="16" fill="#0d1424" stroke="#247bff" stroke-width="1.6"/><circle cx="-24.6" cy="0" r="4" fill="#247bff"/><text x="8.0" y="5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#eef2ff">Python</text></g></g></g></g></g>
+<g transform="rotate(180.0)"><animateTransform attributeName="transform" type="rotate" from="180.0" to="540.0" dur="22s" repeatCount="indefinite"/>
+<g transform="translate(170 0)"><g transform="rotate(-180.0)"><animateTransform attributeName="transform" type="rotate" from="-180.0" to="-540.0" dur="22s" repeatCount="indefinite"/>
+<g transform="scale(1 2.0000)"><g transform="rotate(16)"><rect x="-31.4" y="-16" width="62.8" height="32" rx="16" fill="#0d1424" stroke="#247bff" stroke-width="1.6"/><circle cx="-16.4" cy="0" r="4" fill="#247bff"/><text x="8.0" y="5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#eef2ff">Bash</text></g></g></g></g></g>
+<g transform="rotate(270.0)"><animateTransform attributeName="transform" type="rotate" from="270.0" to="630.0" dur="22s" repeatCount="indefinite"/>
+<g transform="translate(170 0)"><g transform="rotate(-270.0)"><animateTransform attributeName="transform" type="rotate" from="-270.0" to="-630.0" dur="22s" repeatCount="indefinite"/>
+<g transform="scale(1 2.0000)"><g transform="rotate(16)"><rect x="-27.3" y="-16" width="54.6" height="32" rx="16" fill="#0d1424" stroke="#247bff" stroke-width="1.6"/><circle cx="-12.3" cy="0" r="4" fill="#247bff"/><text x="8.0" y="5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#eef2ff">Git</text></g></g></g></g></g>
+</g>
+<ellipse cx="500" cy="292" rx="265" ry="121.9" transform="rotate(18 500 292)" fill="none" stroke="url(#s_bd)" stroke-opacity=".6" stroke-width="1.5" stroke-dasharray="3 7"/>
+<g transform="translate(500 292) rotate(18) scale(1 0.46)">
+<g transform="rotate(0.0)"><animateTransform attributeName="transform" type="rotate" from="0.0" to="-360.0" dur="34s" repeatCount="indefinite"/>
+<g transform="translate(265 0)"><g transform="rotate(-0.0)"><animateTransform attributeName="transform" type="rotate" from="-0.0" to="360.0" dur="34s" repeatCount="indefinite"/>
+<g transform="scale(1 2.1739)"><g transform="rotate(-18)"><rect x="-43.7" y="-16" width="87.4" height="32" rx="16" fill="#0d1424" stroke="#ff354f" stroke-width="1.6"/><circle cx="-28.7" cy="0" r="4" fill="#ff354f"/><text x="8.0" y="5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#eef2ff">Airflow</text></g></g></g></g></g>
+<g transform="rotate(90.0)"><animateTransform attributeName="transform" type="rotate" from="90.0" to="-270.0" dur="34s" repeatCount="indefinite"/>
+<g transform="translate(265 0)"><g transform="rotate(-90.0)"><animateTransform attributeName="transform" type="rotate" from="-90.0" to="270.0" dur="34s" repeatCount="indefinite"/>
+<g transform="scale(1 2.1739)"><g transform="rotate(-18)"><rect x="-39.6" y="-16" width="79.2" height="32" rx="16" fill="#0d1424" stroke="#ff354f" stroke-width="1.6"/><circle cx="-24.6" cy="0" r="4" fill="#ff354f"/><text x="8.0" y="5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#eef2ff">Docker</text></g></g></g></g></g>
+<g transform="rotate(180.0)"><animateTransform attributeName="transform" type="rotate" from="180.0" to="-180.0" dur="34s" repeatCount="indefinite"/>
+<g transform="translate(265 0)"><g transform="rotate(-180.0)"><animateTransform attributeName="transform" type="rotate" from="-180.0" to="180.0" dur="34s" repeatCount="indefinite"/>
+<g transform="scale(1 2.1739)"><g transform="rotate(-18)"><rect x="-27.3" y="-16" width="54.6" height="32" rx="16" fill="#0d1424" stroke="#ff354f" stroke-width="1.6"/><circle cx="-12.3" cy="0" r="4" fill="#ff354f"/><text x="8.0" y="5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#eef2ff">dbt</text></g></g></g></g></g>
+<g transform="rotate(270.0)"><animateTransform attributeName="transform" type="rotate" from="270.0" to="-90.0" dur="34s" repeatCount="indefinite"/>
+<g transform="translate(265 0)"><g transform="rotate(-270.0)"><animateTransform attributeName="transform" type="rotate" from="-270.0" to="90.0" dur="34s" repeatCount="indefinite"/>
+<g transform="scale(1 2.1739)"><g transform="rotate(-18)"><rect x="-72.4" y="-16" width="144.8" height="32" rx="16" fill="#0d1424" stroke="#ff354f" stroke-width="1.6"/><circle cx="-57.4" cy="0" r="4" fill="#ff354f"/><text x="8.0" y="5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#eef2ff">GitHub Actions</text></g></g></g></g></g>
+</g>
+<ellipse cx="500" cy="292" rx="372" ry="156.2" transform="rotate(-6 500 292)" fill="none" stroke="url(#s_bd)" stroke-opacity=".6" stroke-width="1.5" stroke-dasharray="3 7"/>
+<g transform="translate(500 292) rotate(-6) scale(1 0.42)">
+<g transform="rotate(0.0)"><animateTransform attributeName="transform" type="rotate" from="0.0" to="360.0" dur="48s" repeatCount="indefinite"/>
+<g transform="translate(372 0)"><g transform="rotate(-0.0)"><animateTransform attributeName="transform" type="rotate" from="-0.0" to="-360.0" dur="48s" repeatCount="indefinite"/>
+<g transform="scale(1 2.3810)"><g transform="rotate(6)"><rect x="-51.9" y="-16" width="103.8" height="32" rx="16" fill="#0d1424" stroke="#7c5cff" stroke-width="1.6"/><circle cx="-36.9" cy="0" r="4" fill="#7c5cff"/><text x="8.0" y="5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#eef2ff">Snowflake</text></g></g></g></g></g>
+<g transform="rotate(72.0)"><animateTransform attributeName="transform" type="rotate" from="72.0" to="432.0" dur="48s" repeatCount="indefinite"/>
+<g transform="translate(372 0)"><g transform="rotate(-72.0)"><animateTransform attributeName="transform" type="rotate" from="-72.0" to="-432.0" dur="48s" repeatCount="indefinite"/>
+<g transform="scale(1 2.3810)"><g transform="rotate(6)"><rect x="-35.5" y="-16" width="71.0" height="32" rx="16" fill="#0d1424" stroke="#7c5cff" stroke-width="1.6"/><circle cx="-20.5" cy="0" r="4" fill="#7c5cff"/><text x="8.0" y="5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#eef2ff">Kafka</text></g></g></g></g></g>
+<g transform="rotate(144.0)"><animateTransform attributeName="transform" type="rotate" from="144.0" to="504.0" dur="48s" repeatCount="indefinite"/>
+<g transform="translate(372 0)"><g transform="rotate(-144.0)"><animateTransform attributeName="transform" type="rotate" from="-144.0" to="-504.0" dur="48s" repeatCount="indefinite"/>
+<g transform="scale(1 2.3810)"><g transform="rotate(6)"><rect x="-27.3" y="-16" width="54.6" height="32" rx="16" fill="#0d1424" stroke="#f5b73b" stroke-width="1.6"/><circle cx="-12.3" cy="0" r="4" fill="#f5b73b"/><text x="8.0" y="5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#eef2ff">AWS</text></g></g></g></g></g>
+<g transform="rotate(216.0)"><animateTransform attributeName="transform" type="rotate" from="216.0" to="576.0" dur="48s" repeatCount="indefinite"/>
+<g transform="translate(372 0)"><g transform="rotate(-216.0)"><animateTransform attributeName="transform" type="rotate" from="-216.0" to="-576.0" dur="48s" repeatCount="indefinite"/>
+<g transform="scale(1 2.3810)"><g transform="rotate(6)"><rect x="-35.5" y="-16" width="71.0" height="32" rx="16" fill="#0d1424" stroke="#f5b73b" stroke-width="1.6"/><circle cx="-20.5" cy="0" r="4" fill="#f5b73b"/><text x="8.0" y="5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#eef2ff">Azure</text></g></g></g></g></g>
+<g transform="rotate(288.0)"><animateTransform attributeName="transform" type="rotate" from="288.0" to="648.0" dur="48s" repeatCount="indefinite"/>
+<g transform="translate(372 0)"><g transform="rotate(-288.0)"><animateTransform attributeName="transform" type="rotate" from="-288.0" to="-648.0" dur="48s" repeatCount="indefinite"/>
+<g transform="scale(1 2.3810)"><g transform="rotate(6)"><rect x="-56.0" y="-16" width="112.0" height="32" rx="16" fill="#0d1424" stroke="#f5b73b" stroke-width="1.6"/><circle cx="-41.0" cy="0" r="4" fill="#f5b73b"/><text x="8.0" y="5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#eef2ff">Databricks</text></g></g></g></g></g>
+</g>
+
+<circle cx="500" cy="292" r="52" fill="#0d1424" stroke="url(#s_bd)" stroke-width="2.5"/>
+<circle cx="500" cy="292" r="62" fill="none" stroke="#247bff" stroke-opacity=".5" stroke-dasharray="4 8"><animateTransform attributeName="transform" type="rotate" from="0 500 292" to="360 500 292" dur="30s" repeatCount="indefinite"/></circle>
+<text x="500" y="290" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="800" fill="#eef2ff">DATA</text>
+<text x="500" y="312" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="800" fill="#ff354f">STACK</text>
+<circle cx="150" cy="560" r="5" fill="#247bff"/><text x="162" y="564" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b97b5">Languages</text><circle cx="270.6" cy="560" r="5" fill="#ff354f"/><text x="282.6" y="564" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b97b5">Orchestration &amp; DevOps</text><circle cx="487.40000000000003" cy="560" r="5" fill="#7c5cff"/><text x="499.40000000000003" y="564" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b97b5">Warehouse &amp; Streaming</text><circle cx="696.8000000000001" cy="560" r="5" fill="#f5b73b"/><text x="708.8000000000001" y="564" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b97b5">Cloud</text>
+</svg>
